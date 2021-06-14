@@ -129,6 +129,11 @@ a:visited{
     width: 100px;
 }
 
+#rodape{
+    position: relative;
+    margin-top: 10px;
+}
+
 .profile-pic{
     content: inherit;
     position: relative;
