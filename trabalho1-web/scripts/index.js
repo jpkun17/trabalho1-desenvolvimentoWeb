@@ -1,7 +1,7 @@
 var message_id = 0
 
 function credits(){
-    alert("Desenvolvimento de Software para Web\n João Pedro freitas da Silva\nDavid Andrade")
+    alert("Desenvolvimento de Software para Web\n João Pedro freitas da Silva\nDavid Andrade de Araújo")
 }
 
 
